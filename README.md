@@ -1,1 +1,1 @@
-# PunimiS
+# Punimi Seminarik
